@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lemport-0.9.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../lemport-0.9.4.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../lemport-0.9.4.jar!/doc" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
